@@ -4,7 +4,7 @@
 
 # Hi, I'm Sumaiya Tabassum 👋
 
-### Computer Science & Engineering Student
+### Computer Science and Engineering Student
 
 </div>
 
@@ -28,7 +28,7 @@ I am a motivated Computer Science and Engineering student passionate about learn
 **Port City International University, Chittagong**
 
 📅 Sep 2022 – Present  
-⭐ CGPA: 3.93 / 4.00
+⭐ CGPA: 3.94 / 4.00
 
 ### Higher Secondary Certificate, Science
 **CMP School & College**
